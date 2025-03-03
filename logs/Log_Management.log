@@ -7,3 +7,6 @@
 2025-03-03T11:26:28.163+05:30  INFO 11928 --- [Log_Management] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1489 ms
 2025-03-03T11:26:28.729+05:30  INFO 11928 --- [Log_Management] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
 2025-03-03T11:26:28.740+05:30  INFO 11928 --- [Log_Management] [main] l.i.l.LogManagementApplication           : Started LogManagementApplication in 3.009 seconds (process running for 4.536)
+2025-03-03T12:04:51.748+05:30  INFO 15956 --- [Log_Management] [main] l.i.l.LogManagementApplicationTests      : Starting LogManagementApplicationTests using Java 21.0.3 with PID 15956 (started by Lahiru in F:\Documents\GDSE67\3rd Semester\AD 2\Microservice\Log_Management)
+2025-03-03T12:04:51.751+05:30  INFO 15956 --- [Log_Management] [main] l.i.l.LogManagementApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2025-03-03T12:04:54.223+05:30  INFO 15956 --- [Log_Management] [main] l.i.l.LogManagementApplicationTests      : Started LogManagementApplicationTests in 3.079 seconds (process running for 4.979)

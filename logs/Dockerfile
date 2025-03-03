@@ -1,4 +1,3 @@
-FROM ubuntu:latest
-LABEL authors="Lahiru"
+# base images
+FROM openjdk:21-jdk-slim
 
-ENTRYPOINT ["top", "-b"]
