@@ -1,0 +1,9 @@
+2025-03-03T11:26:26.576+05:30  INFO 11928 --- [Log_Management] [main] l.i.l.LogManagementApplication           : Starting LogManagementApplication using Java 21.0.3 with PID 11928 (F:\Documents\GDSE67\3rd Semester\AD 2\Microservice\Log_Management\target\classes started by Lahiru in F:\Documents\GDSE67\3rd Semester\AD 2\Microservice\Log_Management)
+2025-03-03T11:26:26.580+05:30  INFO 11928 --- [Log_Management] [main] l.i.l.LogManagementApplication           : No active profile set, falling back to 1 default profile: "default"
+2025-03-03T11:26:28.065+05:30  INFO 11928 --- [Log_Management] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-03T11:26:28.089+05:30  INFO 11928 --- [Log_Management] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-03T11:26:28.090+05:30  INFO 11928 --- [Log_Management] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-03T11:26:28.162+05:30  INFO 11928 --- [Log_Management] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-03T11:26:28.163+05:30  INFO 11928 --- [Log_Management] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1489 ms
+2025-03-03T11:26:28.729+05:30  INFO 11928 --- [Log_Management] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-03T11:26:28.740+05:30  INFO 11928 --- [Log_Management] [main] l.i.l.LogManagementApplication           : Started LogManagementApplication in 3.009 seconds (process running for 4.536)
